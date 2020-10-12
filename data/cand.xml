@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<candies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns="http://www.example.com/candies"
+              xsi:schemaLocation="http://www.example.com/candies cand.xsd">
+    <caramel>
+        <name>Caraca</name>
+        <proteins>12</proteins>
+        <fats>32</fats>
+        <carbos>43</carbos>
+        <production>Asia</production>
+        <water>1</water>
+        <sugar>32</sugar>
+        <fructose>2</fructose>
+        <vanilla>12</vanilla>
+        <flavour>Cherry</flavour>
+    </caramel>
+
+    <chocolate>
+        <name>Choco</name>
+        <proteins>32</proteins>
+        <fats>34</fats>
+        <carbos>54</carbos>
+        <production>Africa</production>
+        <water>12</water>
+        <sugar>43</sugar>
+        <fructose>43</fructose>
+        <vanilla>1</vanilla>
+        <filling>true</filling>
+        <chocolateKind>black</chocolateKind>
+    </chocolate>
+
+    <chocolate>
+        <name>Oco</name>
+        <proteins>12</proteins>
+        <fats>5</fats>
+        <carbos>7</carbos>
+        <production>Europe</production>
+        <water>7</water>
+        <sugar>8</sugar>
+        <fructose>9</fructose>
+        <vanilla>12</vanilla>
+        <filling>false</filling>
+        <chocolateKind>white</chocolateKind>
+    </chocolate>
+
+    <chocolate>
+        <name>Oco</name>
+        <proteins>12</proteins>
+        <fats>5</fats>
+        <carbos>7</carbos>
+        <production>Europe</production>
+        <water>7</water>
+        <sugar>8</sugar>
+        <fructose>9</fructose>
+        <vanilla>12</vanilla>
+        <filling>false</filling>
+        <chocolateKind>white</chocolateKind>
+    </chocolate>
+
+    <chocolate>
+        <name>Oco</name>
+        <proteins>12</proteins>
+        <fats>5</fats>
+        <carbos>7</carbos>
+        <production>Europe</production>
+        <water>7</water>
+        <sugar>8</sugar>
+        <fructose>9</fructose>
+        <vanilla>12</vanilla>
+        <filling>false</filling>
+        <chocolateKind>white</chocolateKind>
+    </chocolate>
+
+    <chocolate>
+        <name>Oco</name>
+        <proteins>12</proteins>
+        <fats>5</fats>
+        <carbos>7</carbos>
+        <production>Europe</production>
+        <water>7</water>
+        <sugar>8</sugar>
+        <fructose>9</fructose>
+        <vanilla>12</vanilla>
+        <filling>false</filling>
+        <chocolateKind>white</chocolateKind>
+    </chocolate>
+</candies>
